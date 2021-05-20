@@ -20,10 +20,10 @@ img.logo {
 .title {
     display: flex;
     justify-content: center;
+    color: #919191;
 }
 
 .page-bottom {
-    border: 5px black solid;
     width: 100%;
     background-color: #f8f8f8;
 }
@@ -31,6 +31,7 @@ img.logo {
 .header-art {
     display: flex;
     justify-content: center;
+    color: #919191;
 }
 
 .pic-row {
@@ -39,7 +40,6 @@ img.logo {
     margin: 5px;
     padding-right: 220px;
     padding-left: 220px;
-    border: 5px solid blue;
     justify-content: space-between;
 }
 
