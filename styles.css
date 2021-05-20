@@ -13,10 +13,6 @@ h1 {
     justify-content: center;
 }
 
-img.logo {
-    width: 25px;
-}
-
 .title {
     display: flex;
     justify-content: center;
